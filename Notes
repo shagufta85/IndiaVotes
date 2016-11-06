@@ -1,0 +1,16 @@
+New other maven 3rd option maven then write name grp id then go to mvnrepository.com search selenium java and add code to our page
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>3.0.1</version>
+</dependency>
+
+
+// - means absolute Xpath
+/ - means relative Xpath 
+
+css=.#>
+. specify class name
+# attribute id
+> parent child relation
